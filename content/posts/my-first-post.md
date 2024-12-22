@@ -1,6 +1,6 @@
 +++
 date = '2024-12-22T19:17:42+01:00'
-draft = true
+draft = 'false'
 title = 'My First Post'
 +++
 
@@ -10,3 +10,6 @@ z.B.
 * dies
 * das 
 * oder jenes
+
+Hier kann auch noch mehr stehen
+
