@@ -1,5 +1,6 @@
 ---
 title: dritter Post
+date: 2024-12-21
 ---
 
 # asdfadsf a df adffdf
