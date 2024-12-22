@@ -1,7 +1,7 @@
-+++
-date = '2024-12-22T19:17:42+01:00'
-title = 'My First Post'
-+++
+---
+date: 2024-12-22T19:17:42+01:00
+title: My First Post
+--
 
 ## Einleitung 
 Hier kann vieles stehen  
