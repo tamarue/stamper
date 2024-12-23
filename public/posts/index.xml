@@ -2,24 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Stamper Site</title>
-    <link>http://localhost:1313/stamper/posts/</link>
+    <link>https://tamarue.github.io/stamper/posts/</link>
     <description>Recent content in Posts on Stamper Site</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Mon, 23 Dec 2024 20:45:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/stamper/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 23 Dec 2024 21:49:03 +0100</lastBuildDate>
+    <atom:link href="https://tamarue.github.io/stamper/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dritter Post</title>
+      <link>https://tamarue.github.io/stamper/posts/dritter_post/</link>
+      <pubDate>Mon, 23 Dec 2024 21:49:03 +0100</pubDate>
+      <guid>https://tamarue.github.io/stamper/posts/dritter_post/</guid>
+      <description>&lt;p&gt;Dies ist der dritte Post.&#xA;Der Mann ist gut.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Zweiter  Post</title>
-      <link>http://localhost:1313/stamper/posts/zweiter_post/</link>
+      <link>https://tamarue.github.io/stamper/posts/zweiter_post/</link>
       <pubDate>Mon, 23 Dec 2024 20:45:07 +0100</pubDate>
-      <guid>http://localhost:1313/stamper/posts/zweiter_post/</guid>
+      <guid>https://tamarue.github.io/stamper/posts/zweiter_post/</guid>
       <description>&lt;p&gt;Dies ist Text.&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/stamper/posts/my-first-post/</link>
+      <link>https://tamarue.github.io/stamper/posts/my-first-post/</link>
       <pubDate>Sun, 22 Dec 2024 19:17:42 +0100</pubDate>
-      <guid>http://localhost:1313/stamper/posts/my-first-post/</guid>
+      <guid>https://tamarue.github.io/stamper/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h2&gt;&#xA;&lt;p&gt;Hier kann vieles stehen&lt;br&gt;&#xA;z.B.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;dies&lt;/li&gt;&#xA;&lt;li&gt;das&lt;/li&gt;&#xA;&lt;li&gt;oder jenes&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Hier kann auch noch mehr stehen&lt;/p&gt;&#xA;&lt;p&gt;dfasdf&lt;/p&gt;&#xA;&lt;p&gt;asdfasdf&lt;/p&gt;&#xA;&lt;p&gt;asdfadf&lt;/p&gt;</description>
     </item>
   </channel>

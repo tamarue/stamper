@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/stamper/posts/</loc>
+    <loc>https://tamarue.github.io/stamper/posts/dritter_post/</loc>
+    <lastmod>2024-12-23T21:49:03+01:00</lastmod>
+  </url><url>
+    <loc>https://tamarue.github.io/stamper/posts/</loc>
+    <lastmod>2024-12-23T21:49:03+01:00</lastmod>
+  </url><url>
+    <loc>https://tamarue.github.io/stamper/</loc>
+    <lastmod>2024-12-23T21:49:03+01:00</lastmod>
+  </url><url>
+    <loc>https://tamarue.github.io/stamper/posts/zweiter_post/</loc>
     <lastmod>2024-12-23T20:45:07+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stamper/</loc>
-    <lastmod>2024-12-23T20:45:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stamper/posts/zweiter_post/</loc>
-    <lastmod>2024-12-23T20:45:07+01:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/stamper/posts/my-first-post/</loc>
+    <loc>https://tamarue.github.io/stamper/posts/my-first-post/</loc>
     <lastmod>2024-12-22T19:17:42+01:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/stamper/categories/</loc>
+    <loc>https://tamarue.github.io/stamper/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/stamper/tags/</loc>
+    <loc>https://tamarue.github.io/stamper/tags/</loc>
   </url>
 </urlset>
