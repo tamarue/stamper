@@ -2,4 +2,4 @@ baseURL = 'https://tamarue.github.io/stamper/'
 languageCode = 'de'
 title = 'Stamper Site'
 theme = 'ananke'
-
+timeZone = 'Europe/Berlin'
